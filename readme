@@ -1,0 +1,37 @@
+--------------
+ Read Me - ec
+==============
+
+ec is shell program that help EC pogramming.
+
+-------------
+ ec Commands
+=============
+
+-------
+ class
+-------
+
+$ ec class class_name
+
+Replace 'class_name' with a object name.
+
+-----
+ app
+-----
+
+$ ec app app_name
+
+Replace 'app_name' with application name.
+
+--------
+ appdir
+--------
+
+$ ec appdir app_dir_name
+
+Replace 'app_dir_name' with directory name. appdir hold one or more than one applications or libraries.
+
+
+
+
