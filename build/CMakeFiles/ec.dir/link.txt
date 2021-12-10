@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/ec.dir/src/ec_shell.c.o CMakeFiles/ec.dir/src/main.c.o  -o ec   -L/home/malith/ExtendedC/EC/lib  -L/usr/lib/ec  -Wl,-rpath,/home/malith/ExtendedC/EC/lib:/usr/lib/ec -lEC -lm 

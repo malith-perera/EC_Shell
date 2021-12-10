@@ -1,3 +1,0 @@
-/home/malith/ExtendedC/shell/build/CMakeFiles/rebuild_cache.dir
-/home/malith/ExtendedC/shell/build/CMakeFiles/edit_cache.dir
-/home/malith/ExtendedC/shell/build/CMakeFiles/ec.dir
